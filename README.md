@@ -1,1 +1,1 @@
-# Amazing-Firefox-Extensions
+# Amazing Firefox Extensions

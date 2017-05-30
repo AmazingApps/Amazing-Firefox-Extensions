@@ -1,8 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-* [XUL & XPCOM](xul.md)
+* [XUL & XPCOM](XUL & XPCOM.md)
+    * [Content Blocker](content-blocker.md)
 * [Web Extension](web-extension.md)
-* [Greasemonkey Scripts](greasemonkey-scripts.md)
+* [User Scripts](user-scripts.md)
 * [CSS Styles](css-styles.md)
+
+
 

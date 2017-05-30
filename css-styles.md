@@ -18,3 +18,7 @@
 [Firefox: move Paste and Go(Search) to Top | Userstyles.org](https://userstyles.org/styles/77186/firefox-move-paste-and-go-search-to-top)
 
 [Firefox Tabs Counter | Userstyles.org](https://userstyles.org/styles/79050/firefox-tabs-counter)
+
+## Firefox Only
+
+[未载入图片显示断裂标志 | Userstyles.org](https://userstyles.org/styles/76416/theme)

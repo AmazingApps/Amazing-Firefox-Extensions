@@ -1,5 +1,9 @@
 
-# [All WebExtensions](https://addons.mozilla.org/zh-CN/firefox/tag/firefox57?sort=updated)
+# [All WebExtensions](https://addons.mozilla.org/firefox/tag/firefox57?sort=updated)
+
+## CSS
+
+[Stylus](https://addons.mozilla.org/firefox/addon/styl-us/)
 
 ## UserScripts
 
@@ -12,3 +16,25 @@
 [GitHub](https://github.com/violentmonkey)
 
 特色：支持通过 OneDrive Dropbox 等跨浏览器种类（Chrome/Firefox/Opera/Maxthon）同步已安装脚本内容和禁用状态。但不支持各浏览器本身的同步。
+
+## BookMark
+
+[Bookmarks Organizer](https://addons.mozilla.org/firefox/addon/bookmarks-organizer/)
+
+[Bookmark 301 Updater](https://addons.mozilla.org/firefox/addon/bookmark-301-updater/)
+
+## QR Code
+
+[QRCode Scanner](https://addons.mozilla.org/firefox/addon/qrcode-scanneroffline/)
+
+[QR Coder](https://addons.mozilla.org/firefox/addon/qr-coder/)
+
+## Redirector
+
+[URLRedirector](https://addons.mozilla.org/firefox/addon/urlredirector/)
+
+[Smart HTTPS (revived)](https://addons.mozilla.org/firefox/addon/smart-https-revived/)
+
+[MixedContentHunter](https://addons.mozilla.org/firefox/addon/mixedcontenthunter/)
+
+[disqus-undirect](https://addons.mozilla.org/firefox/addon/disqus-undirect/)

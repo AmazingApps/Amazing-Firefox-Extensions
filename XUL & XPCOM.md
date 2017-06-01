@@ -1,6 +1,12 @@
-# UserChromeJS
+此处介绍的是基于 `XUL/XPCOM/Mozilla SDK` 构架的传统扩展
 
-Mozilla is going to drop…… so these……
+### uMatrix
+
+以高颗粒度控制页面允许载入的数据类型
+
+Control the data types from a site at a **REALLY HIGH** accuracy.
+
+### UserChromeJS
 
 ### [uc](https://addons.mozilla.org/firefox/addon/uc/)
 

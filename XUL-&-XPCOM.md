@@ -6,7 +6,7 @@
 
 Control the data types from a site at a **REALLY HIGH** accuracy.
 
-###### 可无缝移植到 Web Extension｜COMPLETE TRANSPLANTATION TO WEB EXTENSION
+###### 可无缝移植到 WebExtension｜COMPLETE TRANSPLANTATION TO WebExtension
 
 ### UserChromeJS
 

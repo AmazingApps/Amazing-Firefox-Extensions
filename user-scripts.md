@@ -6,6 +6,10 @@ B 站播放器自动宽屏，自动播放视频，定位到播放器位置，显
 
 通过替换获取视频地址接口的方式, 实现解除 B 站区域限制; 只对 HTML5 播放器生效; 只支持番剧视频;
 
+#### [解决百度云大文件下载限制](https://greasyfork.org/zh-CN/scripts/17800-%E8%A7%A3%E5%86%B3%E7%99%BE%E5%BA%A6%E4%BA%91%E5%A4%A7%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E9%99%90%E5%88%B6)
+
+解决百度云大文件下载限制
+
 #### [维基百科优先简体中文](https://greasyfork.org/en/scripts/25678-%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E4%BC%98%E5%85%88%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)
 
 Wikipedia 维基百科优先简体中文
@@ -17,10 +21,6 @@ Wikipedia 维基百科优先简体中文
 #### [仙尊 pixiv 图片下载器](https://greasyfork.org/en/scripts/24252-%E4%BB%99%E5%B0%8Apixiv%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD%E5%99%A8)
 
 可在多种情景下批量下载 pixiv 上的图片
-
-#### [解决百度云大文件下载限制](https://greasyfork.org/zh-CN/scripts/17800-%E8%A7%A3%E5%86%B3%E7%99%BE%E5%BA%A6%E4%BA%91%E5%A4%A7%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E9%99%90%E5%88%B6)
-
-解决百度云大文件下载限制
 
 ---
 

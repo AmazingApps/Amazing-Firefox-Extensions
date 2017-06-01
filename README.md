@@ -8,10 +8,44 @@
 
 ---
 
+### 标识说明
+
+![](/assets/noncommercial.png) 非商业化作品
+
+![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：`"开源协议@托管站点: 开源地址"`。如：`GPL 2.0@GitHub https://github.com/AmazingApps/Amazing-Windows-Apps`.
+
+![](/assets/earth-globe.png) 多语言支持：至少支持世界上几种使用较多较广的语言
+
+* 仅支持单一或者少数语种的以国旗或地区旗帜标注
+
+~~删除线~~：
+
+1. 存在争议的扩展，信誉尚不确切
+2. 长期无更新，不确定维护情况
+
+---
+
 This is an awesome list about Firefox extensions
 
 Please note that plugins are not introduced here, read [this article](https://emlvirus.gitbooks.io/personal-knowledge-base/content/Info-Tech/add-ons.html) if you don't know how to distinguish.
 
 Mozilla is going to drop `XUL/XPCOM/Mozilla SDK` used by legacy extensions, so extensions based on `Web Extension` are main contents here. There will also be continuous possibility here for legacy ones.
+
+---
+
+### Icons
+
+![](/assets/noncommercial.png) non-commercial work
+
+![](/assets/open-source-icon.png) Open-source apps. Tooltips follow the format of `"license@host site: source URL"`. For example, `"GPL v2.0@Github https://github.com/AmazingApps/Amazing-Windows-Apps"`.
+
+![](/assets/earth-globe.png) Apps with localization for major languages.
+
+* A national or regional flag is marked if only one or a few languages are supported.
+
+~~Strikethrough~~:
+
+1. The extension had a bad reputation in the past.
+2. The extension has not been updated for a long time, and it is not clear whether it is still maintained.
 
 [返回首页](http://amazingapps.org/)

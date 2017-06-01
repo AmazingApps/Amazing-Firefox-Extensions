@@ -12,7 +12,7 @@
 
 ![](/assets/noncommercial.png) 非商业化作品
 
-![](/assets/open-source-icon.png) 开源软件，鼠标悬浮提示的内容为：`"开源协议@托管站点: 开源地址"`。如：`GPL 2.0@GitHub https://github.com/AmazingApps/Amazing-Windows-Apps`.
+![](/assets/open-source-icon.png) 开源扩展，鼠标悬浮提示的内容为：`"开源协议@托管站点: 开源地址"`。如：`GPL 2.0@GitHub https://github.com/AmazingApps/Amazing-Windows-Apps`.
 
 ![](/assets/earth-globe.png) 多语言支持：至少支持世界上几种使用较多较广的语言
 
@@ -37,7 +37,7 @@ Mozilla is going to drop `XUL/XPCOM/Mozilla SDK` used by legacy extensions, so e
 
 ![](/assets/noncommercial.png) non-commercial work
 
-![](/assets/open-source-icon.png) Open-source apps. Tooltips follow the format of `"license@host site: source URL"`. For example, `"GPL v2.0@Github https://github.com/AmazingApps/Amazing-Windows-Apps"`.
+![](/assets/open-source-icon.png) Open-source addons. Tooltips follow the format of `"license@host site: source URL"`. For example, `"GPL v2.0@Github https://github.com/AmazingApps/Amazing-Windows-Apps"`.
 
 ![](/assets/earth-globe.png) Apps with localization for major languages.
 

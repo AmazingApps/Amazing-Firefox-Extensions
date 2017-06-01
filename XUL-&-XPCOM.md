@@ -1,6 +1,6 @@
 此处介绍的是基于 `XUL/XPCOM/Mozilla SDK` 构架的传统扩展
 
-### uMatrix ![](/assets/图片2.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
+### uMatrix ![](/assets/noncommercial.png) ![](/assets/open-source-icon.png) ![](/assets/earth-globe.png)
 
 以高颗粒度控制页面允许载入的数据类型
 

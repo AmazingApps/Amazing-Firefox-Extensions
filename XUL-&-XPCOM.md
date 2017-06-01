@@ -24,9 +24,9 @@ Control the data types from a site at a **REALLY HIGH** accuracy.
 
 ## 大概率被抛弃 | most likely to be abandoned
 
-### UserChromeJS
+### [userchromejs](http://userchromejs.mozdev.org/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
 
-### [uc](https://addons.mozilla.org/firefox/addon/uc/)
+### [uc](https://addons.mozilla.org/firefox/addon/uc/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
 
 #### [21.doNotCloseMenu 点击书签文件夹中的书签后不关闭该书签菜单](https://files.cnblogs.com/ziyunfei/doNotCloseMenu.uc.js) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
 

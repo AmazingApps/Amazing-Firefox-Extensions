@@ -28,16 +28,14 @@ Control the data types from a site at a **REALLY HIGH** accuracy.
 
 ### [uc](https://addons.mozilla.org/firefox/addon/uc/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
 
-#### [21.doNotCloseMenu 点击书签文件夹中的书签后不关闭该书签菜单](https://files.cnblogs.com/ziyunfei/doNotCloseMenu.uc.js) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
+#### [21.doNotCloseMenu 点击书签文件夹中的书签后不关闭该书签菜单](https://files.cnblogs.com/ziyunfei/doNotCloseMenu.uc.js)
 
 来源于[紫云飞原创的 UserChromeJS 脚本](https://www.cnblogs.com/ziyunfei/archive/2011/11/25/2263756.html)
 
-#### AboutConfigMultipleSelection [](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
-
-[原版](https://github.com/ardiman/userChrome.js/blob/master/aboutconfigmultipleselection/AboutConfigMultipleSelection.uc.js)
+#### [AboutConfigMultipleSelection](https://github.com/ardiman/userChrome.js/blob/master/aboutconfigmultipleselection/AboutConfigMultipleSelection.uc.js)
 
 [修改支持ff44+版本](https://www.firefox.net.cn/read-53212)
 
-#### [copybookmark](https://gist.githubusercontent.com/CnSimonChan/5479022/raw/c285570312666496634223cc7febcc706ab9465e/copybookmark.uc.js) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
+#### [copybookmark](https://gist.githubusercontent.com/CnSimonChan/5479022/raw/c285570312666496634223cc7febcc706ab9465e/copybookmark.uc.js)
 
-#### [SearchBarPlus](https://www.firefox.net.cn/read-51186) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
+#### [SearchBarPlus](https://www.firefox.net.cn/read-51186)

@@ -6,6 +6,8 @@
 
 Control the data types from a site at a **REALLY HIGH** accuracy.
 
+###### 可无缝移植到 Web Extension｜COMPLETE TRANSPLANTATION TO WEB EXTENSION
+
 ### UserChromeJS
 
 ### [uc](https://addons.mozilla.org/firefox/addon/uc/)

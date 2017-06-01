@@ -18,6 +18,10 @@ Wikipedia 维基百科优先简体中文
 
 可在多种情景下批量下载 pixiv 上的图片
 
+#### [解决百度云大文件下载限制](https://greasyfork.org/zh-CN/scripts/17800-%E8%A7%A3%E5%86%B3%E7%99%BE%E5%BA%A6%E4%BA%91%E5%A4%A7%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E9%99%90%E5%88%B6)
+
+解决百度云大文件下载限制
+
 ---
 
 #### [Anti-Adblock Killer | Reek](https://greasyfork.org/en/scripts/735-anti-adblock-killer-reek)

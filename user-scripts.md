@@ -41,3 +41,5 @@ Based on Linkify Plus. Turn plain text URLs into links.
 Grab links by dragging a square.
 
 #### [True URL downloads](https://greasyfork.org/en/scripts/7362-true-url-downloads)
+
+Decryption and display the real URL of the download links (of xunlei, kuaiche, xuanfeng, thunder, flashget, qqdl).

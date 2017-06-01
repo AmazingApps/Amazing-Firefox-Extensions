@@ -8,7 +8,7 @@
 
 ---
 
-### 标识说明
+### 标识说明（不包含脚本与样式）
 
 ![](/assets/noncommercial.png) 非商业化作品
 
@@ -33,7 +33,7 @@ Mozilla is going to drop `XUL/XPCOM/Mozilla SDK` used by legacy extensions, so e
 
 ---
 
-### Icons
+### Icons (which are not applied to scripts or styles)
 
 ![](/assets/noncommercial.png) non-commercial work
 

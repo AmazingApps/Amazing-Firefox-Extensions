@@ -1,4 +1,15 @@
-# Amazing Firefox Extensions
+<h1 align="center">Firefox 精选扩展</h1>
+
+<p align="center">
+<img src="https://img.shields.io/badge/build-passing-green.svg" title="这build status什么的你不用知道啦╮(╯▽╰)╭" />
+<img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8%E6%80%BB%E6%95%B0-30-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" /> <img src="https://img.shields.io/badge/%E5%8D%8F%E8%AE%AE-GPL%20v3.0-red.svg" title="不用去找了，反正你也看不懂=￣ω￣=" />
+<a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
+<img src="https://img.shields.io/badge/%E2%98%8E%EF%B8%8F%E8%81%94%E7%B3%BB-telegram-ff69b4.svg" title="你猜我会不会在♂线呢？"/>
+</a>
+<a href="https://github.com/AmazingApps/Amazing-Firefox-Extensions/issues" target="_blank">
+<img src="https://img.shields.io/github/issues/AmazingApps/Amazing-Firefox-Extensions.svg" title="有建议你就提，我虚心接受，改不改，你猜呢？(●ˇ∀ˇ●)"/>
+</a>
+</p>
 
 此处介绍优秀 Firefox 扩展
 
@@ -24,6 +35,20 @@
 2. 长期无更新，不确定维护情况
 
 ---
+
+<h1 align="center">Amazing Firefox Extensions</h1>
+
+<p align="center">
+<img src="https://img.shields.io/badge/build-passing-green.svg" title="You don't actually need to know what build status is╮(╯▽╰)╭" />
+<img src="https://img.shields.io/badge/apps%20count-30-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
+<img src="https://img.shields.io/badge/LICENSE-GPL%20v3.0-red.svg" title="Save your time to google it as you won't understand it after all=￣ω￣=" />
+<a href="https://t.me/joinchat/AAAAAESLWZxuUSkUqqk1rA" target="_blank">
+<img src="https://img.shields.io/badge/☎️contact-telegram-ff69b4.svg" title="Guess if I'm ♂online？"/>
+</a>
+<a href="https://github.com/AmazingApps/Amazing-Firefox-Extensions/issues" target="_blank">
+<img src="https://img.shields.io/github/issues/AmazingApps/Amazing-Firefox-Extensions.svg" title="Any suggestion is welcome. Just see if I will accept it.(●ˇ∀ˇ●)"/>
+</a>
+</p>
 
 This is an awesome list about Firefox extensions
 

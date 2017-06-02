@@ -2,7 +2,7 @@
 
 ## 可无缝移植到 WebExtension｜COMPLETE TRANSPLANTATION TO WebExtension
 
-### [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
+### [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uBlock")](https://github.com/gorhill/uBlock) ![](/assets/earth-globe.png)
 
 支持多浏览器的高效过滤工具，快速、有效且简洁。
 
@@ -18,15 +18,15 @@ Control the data types from a site at a **REALLY HIGH** accuracy.
 
 ## 情况不明或被弱化 |
 
-[Tab Mix Plus](https://addons.mozilla.org/firefox/addon/tab-mix-plus/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
+[Tab Mix Plus](https://addons.mozilla.org/firefox/addon/tab-mix-plus/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "http://tabmixplus.org/")](http://tabmixplus.org/) ![](/assets/earth-globe.png)
 
 最全面的标签页增强工具。
 
 ## 大概率被抛弃 | most likely to be abandoned
 
-### [userchromejs](http://userchromejs.mozdev.org/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
+### [userchromejs](http://userchromejs.mozdev.org/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "https://www.mozdev.org/source/browse/userchromejs/")](https://www.mozdev.org/source/browse/userchromejs/) ![](/assets/earth-globe.png)
 
-### [uc](https://addons.mozilla.org/firefox/addon/uc/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/gorhill/uMatrix")](https://github.com/gorhill/uMatrix) ![](/assets/earth-globe.png)
+### [uc](https://addons.mozilla.org/firefox/addon/uc/) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "GitHub: https://github.com/satyr/uc")](https://github.com/satyr/uc) ![](/assets/earth-globe.png)
 
 #### [21.doNotCloseMenu 点击书签文件夹中的书签后不关闭该书签菜单](https://files.cnblogs.com/ziyunfei/doNotCloseMenu.uc.js)
 

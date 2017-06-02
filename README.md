@@ -17,6 +17,8 @@
 
 由于 Mozilla 即将停止支持基于 `XUL/XPCOM/Mozilla SDK` 构架的传统扩展，因此本项目将主要介绍 `WebExtension` 构架的扩展；对于传统扩展，本项目将说明扩展的后续开发可能。
 
+[组织详情>>>>](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)
+
 ---
 
 ### 标识说明（不包含脚本与样式）
@@ -55,6 +57,8 @@ This is an awesome list about Firefox extensions
 Please note that plugins are not introduced here, read [this article](https://emlvirus.gitbooks.io/personal-knowledge-base/content/Info-Tech/add-ons.html) if you don't know how to distinguish.
 
 Mozilla is going to drop `XUL/XPCOM/Mozilla SDK` used by legacy extensions, so extensions based on `WebExtension` are main contents here. There will also be continuous possibility here for legacy ones.
+
+[Org Wiki>>>>](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)
 
 ---
 

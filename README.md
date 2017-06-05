@@ -13,7 +13,7 @@
 
 此处介绍优秀 Firefox 扩展
 
-注意，此处不介绍插件。请注意区别二者的概念，如果您无法区别，[此处](https://emlvirus.gitbooks.io/personal-knowledge-base/content/Info-Tech/add-ons.html)是建议阅读的文章。
+注意，此处不介绍插件。请注意区别二者的概念，如果您无法区别，[此处](https://emlvirus.github.io/personalbase/Info-Tech/add-ons.html)是建议阅读的文章。
 
 由于 Mozilla 即将停止支持基于 `XUL/XPCOM/Mozilla SDK` 构架的传统扩展，因此本项目将主要介绍 `WebExtension` 构架的扩展；对于传统扩展，本项目将说明扩展的后续开发可能。
 

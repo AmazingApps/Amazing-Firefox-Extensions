@@ -12,6 +12,8 @@ This is an awesome list about Firefox extensions
 
 Please note that plugins are not introduced here.
 
+We categorize all extensions by following [AMO](https://addons.mozilla.org/en-US/).
+
 [Org Wiki>>>>](https://www.gitbook.com/read/book/amazing-apps/organization-wiki/en/)
 
 ---

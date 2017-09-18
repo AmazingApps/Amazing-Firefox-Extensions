@@ -12,6 +12,8 @@
 
 注意，此处不介绍插件。请注意区别二者的概念。
 
+为便于查找，此处分类完全遵循 [AMO](https://addons.mozilla.org/zh-CN/) 的分类
+
 [组织详情>>>>](https://www.gitbook.com/read/book/amazing-apps/organization-wiki)
 
 ---

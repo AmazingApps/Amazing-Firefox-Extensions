@@ -1,13 +1,5 @@
 <h1 align="center">Firefox 精选扩展</h1>
 
-<p align="center">
-<img src="https://img.shields.io/badge/build-passing-green.svg" title="这build status什么的你不用知道啦╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/%E6%80%BB%E6%95%B0-30-blue.svg" title="哇噢，都有这么多毒瘤了！Σ(っ °Д °;)っ" />
-<a href="https://github.com/AmazingApps/Amazing-Firefox-Extensions/issues" target="_blank">
-<img src="https://img.shields.io/github/issues/AmazingApps/Amazing-Firefox-Extensions.svg" title="有建议你就提，我虚心接受，改不改，你猜呢？(●ˇ∀ˇ●)"/>
-</a>
-</p>
-
 此处介绍优秀 Firefox 扩展
 
 注意，此处不介绍插件。请注意区别二者的概念。

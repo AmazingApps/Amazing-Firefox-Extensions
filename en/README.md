@@ -1,13 +1,5 @@
 <h1 align="center">Amazing Firefox Extensions</h1>
 
-<p align="center">
-<img src="https://img.shields.io/badge/build-passing-green.svg" title="You don't actually need to know what build status is╮(╯▽╰)╭" />
-<img src="https://img.shields.io/badge/TOTAL%20COUNT-30-blue.svg" title="Wow! So many apps already?！Σ(っ °Д °;)っ" />
-<a href="https://github.com/AmazingApps/Amazing-Firefox-Extensions/issues" target="_blank">
-<img src="https://img.shields.io/github/issues/AmazingApps/Amazing-Firefox-Extensions.svg" title="Any suggestion is welcome. Just see if I will accept it.(●ˇ∀ˇ●)"/>
-</a>
-</p>
-
 This is an awesome list about Firefox extensions
 
 Please note that plugins are not introduced here.

@@ -1,6 +1,4 @@
 
-# [All WebExtensions](https://addons.mozilla.org/firefox/tag/firefox57?sort=updated)
-
 ### [Keywi](https://addons.mozilla.org/en-US/firefox/addon/keywi/?src=search) ![](/assets/noncommercial.png) [![](/assets/open-source-icon.png "https://github.com/LEDfan/keywi")](https://github.com/LEDfan/keywi) ![](/assets/united-states.png)
 
 Minimalistic Keepass plugin using Web Extensions and KeepassHTTP.
